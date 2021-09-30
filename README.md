@@ -18,7 +18,7 @@ My name is Spencer and I do content around Data Science, Financial Engineering, 
 
 # Affiliate Channels
 ![https://www.youtube.com/c/SpencerPaoHere](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SpencerPao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/c/SpencerPaoHere)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SpencerPao)  [<img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt='YouTube' height='40'>](https://www.youtube.com/c/SpencerPaoHere)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerPao)](https://github.com/anuraghazra/github-readme-stats)
 
