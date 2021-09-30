@@ -5,7 +5,8 @@
 
 My name is Spencer and I do content around Data Science, Financial Engineering, and Software Engineering. I really enjoy exploring and explaining new topics and how these topics can be applied in everyday life. I really enjoy working with scripting languages such as R and Python. Furthermore, I love to create frameworks that act as the building blocks for other really cool and applicable topics.
 
-Skills: R / Python / Docker / C / Java
+# Skills: 
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - 🔭 I’m currently working on meshing complex concepts with applications 
 - 🌱 I’m currently learning bringing models to production 
