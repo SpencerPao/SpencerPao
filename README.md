@@ -5,6 +5,9 @@
 
 My name is Spencer and I do content around Data Science, Financial Engineering, and Software Engineering. I really enjoy exploring and explaining new topics and how these topics can be applied in everyday life. I really enjoy working with scripting languages such as R and Python. Furthermore, I love to create frameworks that act as the building blocks for other really cool and applicable topics.
 
+# Youtube ✍️ 
+![](https://www.youtube.com/channel/UCoCToADdJRd3u-ACz4e_iCw?sub_confirmation=1) [**YouTube Link**](https://youtube.com/c/SpencerPaoHere)
+
 # Skills: 
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,8 +23,9 @@ My name is Spencer and I do content around Data Science, Financial Engineering, 
 - 💬 Ask me about anything!!! 
 - ⚡ Fun fact: I love breaking down complicated concepts to simple heuristics 
 
-# Affiliate Channels ✍️ 
 
+
+# Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerPao)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpencerPao&show_icons=true)  
