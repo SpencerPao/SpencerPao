@@ -6,8 +6,7 @@
 My name is Spencer and I do content around Data Science, Financial Engineering, and Software Engineering. I really enjoy exploring and explaining new topics and how these topics can be applied in everyday life. I really enjoy working with scripting languages such as R and Python. Furthermore, I love to create frameworks that act as the building blocks for other really cool and applicable topics.
 
 ### Connect with me:
-[<img align="left" alt="SpencerPaoHere | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SpencerPao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SpencerPao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SpencerPao/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/SpencerPaoHere)  
 
 
 
