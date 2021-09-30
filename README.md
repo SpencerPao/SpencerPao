@@ -32,7 +32,7 @@ My name is Spencer and I do content around Data Science, Financial Engineering, 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
-# Github
+# Github:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpencerPao&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/SpencerPao)  
