@@ -36,3 +36,4 @@ My name is Spencer and I do content around Data Science, Financial Engineering, 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpencerPao&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/SpencerPao)  
+![](https://komarev.com/ghpvc/?username=SpencerPao&style=flat-square)
