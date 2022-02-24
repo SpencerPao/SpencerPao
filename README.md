@@ -9,6 +9,7 @@ My name is Spencer and I do content around Data Science, Financial Engineering, 
 - 🔭 I’m currently working on meshing complex concepts with applications 
 - 🌱 I’m currently learning bringing models to production 
 - 👯 I’m looking to collaborate on teaching models how to beat games 
+  - Also, I am willing to collaborate on any prototype ideas involving analytics + industry!
 - 🤔 I’m looking for help with pull requests on existing lines of work 
 - 💬 Ask me about anything!!! 
 - ⚡ Fun fact: I love breaking down complicated concepts to simple heuristics 
