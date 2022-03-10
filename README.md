@@ -3,7 +3,7 @@
 
 # Who am I?
 
-My name is Spencer and I do content around Data Science, Financial Engineering, and Software Engineering. I really enjoy exploring and explaining new topics and how these topics can be applied in everyday life. I really enjoy working with scripting languages such as R and Python. Furthermore, I love to create frameworks that act as the building blocks for other really cool and applicable topics. Check out my [website here!](spencerpao.github.io)
+My name is Spencer and I do content around Data Science, Financial Engineering, and Software Engineering. I really enjoy exploring and explaining new topics and how these topics can be applied in everyday life. I really enjoy working with scripting languages such as R and Python. Furthermore, I love to create frameworks that act as the building blocks for other really cool and applicable topics. Check out my [website here!](https://spencerpao.github.io/)
 
 # Snippets
 - 🔭 I’m currently working on meshing complex concepts with applications 
