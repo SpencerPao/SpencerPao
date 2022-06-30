@@ -14,7 +14,7 @@ My name is Spencer and I do content around Data Science, Financial Engineering, 
 - 💬 Ask me about anything!!! 
 - ⚡ Fun fact: I love breaking down complicated concepts to simple heuristics 
 
-# Connect with me:
+# Connect with me: (Probably send me a message so I know where you're coming from haha)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SpencerPao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SpencerPao/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/c/SpencerPaoHere)  
 
 
