@@ -8,15 +8,16 @@ My name is Spencer and I do content around Data Science, Financial Engineering, 
 # Snippets
 - 🔭 I’m currently working on meshing complex concepts with applications 
 - 🌱 I’m currently learning bringing models to production 
-- 👯 I’m looking to collaborate on teaching models how to beat games 
-  - Also, I am willing to collaborate on any prototype ideas involving analytics + industry!
+- 👯 I’m always looking to collaborate related to any ideas involving analytics + industry!
 - 🤔 I’m looking for help with pull requests on existing lines of work 
 - 💬 Ask me about anything!!! 
 - ⚡ Fun fact: I love breaking down complicated concepts to simple heuristics 
 
-# Connect with me: (Probably send me a message so I know where you're coming from haha)
+# Connect with me: (Send me a message!)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SpencerPao)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SpencerPao/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/c/SpencerPaoHere)  
 
+# Authored PyPi Package
+- [ytad](https://pypi.org/project/ytad/) is a python library meant to help automate the tedious processes of updating video descriptions. This can also be applied to other use cases, anything involving the YouTube API
 
 
 # Skills: 
